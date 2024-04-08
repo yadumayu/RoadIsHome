@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174171665372",
+    "project_id": "roadishomefirebase",
+    "storage_bucket": "roadishomefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174171665372:android:c59172dd2fce978aead519",
+        "android_client_info": {
+          "package_name": "com.example.roadishome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAF8DzlzoeauA9NtZLKVmyygM3CbVzlLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
